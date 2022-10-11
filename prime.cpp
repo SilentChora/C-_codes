@@ -25,9 +25,9 @@ int main() {
   int add = n + 3;
 
   if (is_prime)
-    cout << n << " is a prime number";
+    cout << n << " This is a prime number";
   else
-    cout << n << " is not a prime number";
+    cout << n << " This is not a prime number";
 
 
   cout << "added by 3 = " << add;
