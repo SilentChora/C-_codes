@@ -28,6 +28,7 @@ int main() {
     cout << n << " This is a prime number";
   else
     cout << n << " This is not a prime number";
+    cout << n << " Prime number "
 
 
   cout << "added by 3 = " << add;
